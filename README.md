@@ -1,2 +1,2 @@
 # React-Next
-My first project with React and Next
+Project Next.js documentation
